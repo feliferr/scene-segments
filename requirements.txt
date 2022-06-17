@@ -1,0 +1,7 @@
+scenedetect[opencv]
+opencv-python
+numpy
+Click
+tdqm
+appdirs
+av
